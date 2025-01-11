@@ -1,0 +1,8 @@
+{
+"name": "ENTRA",
+"image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
+"info": "ENTER",
+"url": "https://test34344.herokuapp.com/wise/testWise.php?numList=199&tkn=tokenTest1",
+"import": false
+}
+.
